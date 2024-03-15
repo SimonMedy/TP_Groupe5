@@ -1,6 +1,6 @@
-#Groupe 5
+# Groupe 5
 
-##Participants du groupe
+## Participants du groupe
 - Martins Killian
 - Simon Medy
 - Priscilia Lys
